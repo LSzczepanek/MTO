@@ -2,5 +2,5 @@
 
 Lukasz Szczepanek
 191905  
-blackdark1993gmail.com  
+blackdark1993@gmail.com  
 lukas.szczepanek@gmail.com
