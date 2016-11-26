@@ -1,0 +1,21 @@
+
+test2.php
+
+T - duze litery
+t - male litery
+Tt - duze i male litery
+N - liczby
+NT - liczby i duze litery
+NTt - liczby, duze i male litery
+Nt - liczby i male litery
+A - wszystkie znaki
+
+input0=T&input1=2&input2=a
+input0=AArr&input1=2321&input2=rrr
+input0=RRR1111aaa&input1=23123&input2=dsadas
+
+
+Odpowiedzi:
+input0=A
+input1=N
+input2=Tt
