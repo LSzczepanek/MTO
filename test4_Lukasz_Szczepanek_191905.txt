@@ -1,0 +1,17 @@
+test4.php   
+
+T - duze litery
+t - male litery
+Tt - duze i male litery
+N - liczby
+NT - liczby i duze litery
+NTt - liczby, duze i male litery
+Nt - liczby i male litery
+A - wszystkie znaki
+
+Odpowiedzi:
+input0:A
+input1:tT
+input2:t
+input3:A
+input4:N
