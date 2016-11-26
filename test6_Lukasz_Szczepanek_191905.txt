@@ -1,0 +1,20 @@
+test6.php   
+
+T - duze litery
+t - male litery
+Tt - duze i male litery
+N - liczby
+NT - liczby i duze litery
+NTt - liczby, duze i male litery
+Nt - liczby i male litery
+A - wszystkie znaki
+
+Odpowiedzi:
+input0: t
+input1: t
+input2: A
+input3: A
+input4: t
+input5: t
+input6: A
+input7: N
