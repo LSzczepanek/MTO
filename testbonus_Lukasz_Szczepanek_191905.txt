@@ -1,0 +1,20 @@
+testbonus.php   
+
+T - duze litery
+t - male litery
+Tt - duze i male litery
+N - liczby
+NT - liczby i duze litery
+NTt - liczby, duze i male litery
+Nt - liczby i male litery
+A - wszystkie znaki
+ not OK
+Odpowiedzi:
+input0:   A
+input1:   t
+input2:   T
+input3:   NTt
+input4:   NTt
+input5:   Nt
+input6:   A
+input7:   Nt
